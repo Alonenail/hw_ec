@@ -38,3 +38,12 @@ Date: Mon, 25 Dec 2023 10:20:01 GMT
 
 bad query. Accept like '?until=2030-01-01'
 ```
+
+
+## Run and build
+
+```
+make run
+
+make build
+```
